@@ -1,0 +1,18 @@
+# dependencies
+node_modules/
+
+# build output
+.next/
+out/
+
+# production
+dist/
+
+# environment variables
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# misc
+*.log
